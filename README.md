@@ -1,2 +1,2 @@
-# my_project
-first project on github.
+# about the project
+here are some matlab scripts for radar simulation.
